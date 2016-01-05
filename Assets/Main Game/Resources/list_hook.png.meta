@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 29f9d112eede5b34699347b3660ccc50
+timeCreated: 1451068993
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 20110627162523489_0
+    21300002: 20110627162523489_1
+    21300004: 20110627162523489_2
+    21300006: 20110627162523489_3
+    21300008: 20110627162523489_4
+    21300010: 20110627162523489_5
+    21300012: 20110627162523489_6
+    21300014: 20110627162523489_7
+    21300016: 20110627162523489_8
+    21300018: 20110627162523489_9
+    21300020: 20110627162523489_10
+    21300022: 20110627162523489_11
+    21300024: 20110627162523489_12
+    21300026: 20110627162523489_13
+    21300028: 20110627162523489_14
+    21300030: 20110627162523489_15
+    21300032: 20110627162523489_16
+    21300034: 20110627162523489_17
+    21300036: 20110627162523489_18
+    21300038: 20110627162523489_19
+    21300040: 20110627162523489_20
+    21300042: 20110627162523489_21
+    21300044: 20110627162523489_22
+    21300046: 20110627162523489_23
+    21300048: 20110627162523489_24
+    21300050: 20110627162523489_25
+    21300052: 20110627162523489_26
+    21300054: 20110627162523489_27
+    21300056: 20110627162523489_28
+    21300058: 20110627162523489_29
+    21300060: 20110627162523489_30
+    21300062: 20110627162523489_31
+    21300064: 20110627162523489_32
+    21300066: 20110627162523489_33
+    21300068: 20110627162523489_34
+    21300070: 20110627162523489_35
+    21300072: 20110627162523489_36
+    21300074: 20110627162523489_37
+    21300076: 20110627162523489_38
+    21300078: 20110627162523489_39
+    21300080: 20110627162523489_40
+    21300082: 20110627162523489_41
+    21300084: 20110627162523489_42
+    21300086: 20110627162523489_43
+    21300088: 20110627162523489_44
+    21300090: 20110627162523489_45
+    21300092: 20110627162523489_46
+    21300094: 20110627162523489_47
+    21300096: 20110627162523489_48
+    21300098: 20110627162523489_49
+    21300100: 20110627162523489_50
+    21300102: 20110627162523489_51
+    21300104: 20110627162523489_52
+    21300106: 20110627162523489_53
+    21300108: 20110627162523489_54
+    21300110: 20110627162523489_55
+    21300112: 20110627162523489_56
+    21300114: 20110627162523489_57
+    21300116: 20110627162523489_58
+    21300118: 20110627162523489_59
+    21300120: 20110627162523489_60
+    21300122: 20110627162523489_61
+    21300124: 20110627162523489_62
+    21300126: 20110627162523489_63
+    21300128: 20110627162523489_64
+    21300130: 20110627162523489_65
+    21300132: 20110627162523489_66
+    21300134: 20110627162523489_67
+    21300136: 20110627162523489_68
+    21300138: 20110627162523489_69
+    21300140: 20110627162523489_70
+    21300142: 20110627162523489_71
+    21300144: 20110627162523489_72
+    21300146: 20110627162523489_73
+    21300148: 20110627162523489_74
+    21300150: 20110627162523489_75
+    21300152: 20110627162523489_76
+    21300154: 20110627162523489_77
+    21300156: 20110627162523489_78
+    21300158: 20110627162523489_79
+    21300160: list_hook_0
+    21300162: list_hook_1
+    21300164: list_hook_2
+    21300166: list_hook_3
+    21300168: list_hook_4
+    21300170: list_hook_5
+    21300172: list_hook_6
+    21300174: list_hook_7
+    21300176: list_hook_8
+    21300178: list_hook_9
+    21300180: list_hook_10
+    21300182: list_hook_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: list_hook_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 856
+        width: 118
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_hook_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 853
+        width: 122
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_hook_2
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 853
+        width: 152
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_hook_3
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 858
+        width: 86
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_hook_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 477
+        width: 128
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_hook_5
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 481
+        width: 142
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_hook_6
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 497
+        width: 190
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_hook_7
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 491
+        width: 130
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_hook_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 121
+        width: 130
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_hook_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 118
+        width: 212
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_hook_10
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 117
+        width: 160
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: list_hook_11
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 115
+        width: 163
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
